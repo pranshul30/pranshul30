@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web scraping**
 
-- 🌱 I’m currently learning **Cloud , Vercel , Data Science**
+- 🌱 I’m currently learning **Cloud , Web Dev , Data Science**
 
 - 📫 How to reach me **pranshulsharma30@gmail.com**
 
