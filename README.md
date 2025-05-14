@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud , Web Dev , Data Science**
 
-- 📫 How to reach me **pranshulsharma30@gmail.com**
+- 📫 Reach me on linked in down below
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
