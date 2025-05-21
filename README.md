@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web scraping**
 
-- 🌱 I’m currently learning **Cloud , Web Dev , Data Science**
+- 🌱 I’m diving deeper into **Cloud , Web Dev , Data Science**
 
 - 📫 Reach me on linked in down below
 - My web portfolio <a href="https://magic-portfolio-for-next-js-bice-theta.vercel.app/about" target="blank"><img align="center" alt="iamps01" height="30" width="40" /></a>
