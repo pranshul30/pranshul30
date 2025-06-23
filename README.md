@@ -6,7 +6,7 @@
 - 🌱 I’m diving deeper into **Cloud , Web Dev , Data Science**
 
 - 📫 Reach me on linked in down below
-- My web portfolio <a href="https://pranshulportfolio.vercel.app/" target="blank"></a>
+- My web portfolio <a href="https://pranshulportfolio.vercel.app/" target="_blank">Click Here!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
