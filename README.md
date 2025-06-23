@@ -6,7 +6,7 @@
 - 🌱 I’m diving deeper into **Cloud , Web Dev , Data Science**
 
 - 📫 Reach me on linked in down below
-- My web portfolio <a href="https://magic-portfolio-for-next-js-bice-theta.vercel.app/about" target="blank"><img align="center" alt="iamps01" height="30" width="40" /></a>
+- My web portfolio <a href="https://pranshulportfolio.vercel.app/" target="blank"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
