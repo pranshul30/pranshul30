@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranshul Sharma</h1>
+<h1 align="center">Hi 👋, I'm Pranshul Sharmaa</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **Web scraping**
