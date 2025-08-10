@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranshul Sharmaa</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer </h3>
 
-- 🔭 I’m currently working on **Web scraping**
+- 🔭 I’m currently working on making Ai Driven Solution to Real-World Problems
 
 - 🌱 I’m diving deeper into **Cloud , Web Dev , Data Science**
 
